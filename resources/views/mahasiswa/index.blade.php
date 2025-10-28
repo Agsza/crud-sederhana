@@ -1,3 +1,4 @@
+<!-- menambah komentar -->
 <h1>Daftar Mahasiswa</h1>
 <a href="{{ route('mahasiswa.create') }}">Tambah Mahasiswa</a>
 
